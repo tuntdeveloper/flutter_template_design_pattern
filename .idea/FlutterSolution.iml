@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/online_shop/build" />
+      <excludeFolder url="file://$MODULE_DIR$/online_shop/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/online_shop/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/api_base/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/api_base/build" />
+      <excludeFolder url="file://$MODULE_DIR$/api_base/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_mvc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_mvc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_mvc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mvp_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mvp_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mvp_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bloc_event_state/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bloc_event_state/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bloc_event_state/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/getx_obs/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/getx_obs/build" />
+      <excludeFolder url="file://$MODULE_DIR$/getx_obs/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/getx_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/getx_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/getx_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_mvvm/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_mvvm/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_mvvm/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
